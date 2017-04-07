@@ -1,0 +1,6 @@
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab16\Lab16\bin\Debug\Lab16.exe.config
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab16\Lab16\bin\Debug\Lab16.exe
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab16\Lab16\bin\Debug\Lab16.pdb
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab16\Lab16\obj\Debug\Lab16.csprojResolveAssemblyReference.cache
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab16\Lab16\obj\Debug\Lab16.exe
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab16\Lab16\obj\Debug\Lab16.pdb
